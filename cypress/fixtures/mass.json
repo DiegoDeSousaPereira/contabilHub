@@ -1,0 +1,14 @@
+{
+    "registration": {
+        "user": "usuariotestes@multti.com",
+        "password": "123456"
+    },
+    "emailAndPassordInvalid": {
+        "user": "usuariotestes@multti.co",
+        "password": "12345"
+    },
+    "emailValidPasswordInvalid": {
+        "user": "usuariotestes@multti.com",
+        "password": "12345"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "contabilhub",
+  "version": "1.0.0",
+  "description": "Avaliação técnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Diego Sousa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
